@@ -1,0 +1,4 @@
+Table Name,Column Name,Column Type,ClusteringKey,IndexName,IndexType,min,max
+students,age,java.lang.Integer,false,null,null,18,40
+students,name,java.lang.String,false,null,null,a,zzzzzzzzzzzz
+students,id,java.lang.Integer,true,null,null,0,1000
